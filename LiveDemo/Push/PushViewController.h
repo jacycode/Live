@@ -6,6 +6,8 @@
 //  Copyright © 2016年 刘清. All rights reserved.
 //
 
+//采集推流
+
 #import <UIKit/UIKit.h>
 
 @interface PushViewController : UIViewController

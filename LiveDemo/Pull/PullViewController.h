@@ -6,6 +6,9 @@
 //  Copyright © 2016年 刘清. All rights reserved.
 //
 
+
+//拉流播放
+
 #import <UIKit/UIKit.h>
 
 @interface PullViewController : UIViewController
