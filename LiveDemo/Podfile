@@ -1,0 +1,7 @@
+platform:ios,'7.0'
+
+target 'LiveDemo' do
+
+    pod 'LFLiveKit', '~> 2.3';
+
+end

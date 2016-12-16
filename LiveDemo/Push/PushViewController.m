@@ -7,6 +7,7 @@
 //
 
 #import "PushViewController.h"
+#import "LiveView.h"
 
 @interface PushViewController ()
 
@@ -17,6 +18,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
+    [self.view addSubview:[[LiveView alloc] initWithFrame:self.view.bounds]];
 }
 
 - (void)didReceiveMemoryWarning {

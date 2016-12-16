@@ -24,7 +24,6 @@
     
     [self createBT];
     
-    
 }
 
 - (void)createBT{
